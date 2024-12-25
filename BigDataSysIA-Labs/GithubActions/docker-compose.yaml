@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  fastapi:
+    build:
+      context: .
+      dockerfile: ./backend/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    networks:
+      - app_network
+
+  streamlit:
+    build:
+      context: .
+      dockerfile: ./streamlit/Dockerfile
+    ports:
+      - "8501:8501"
+    depends_on:
+      - fastapi
+    networks:
+      - app_network
+
+networks:
+  app_network:

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "githubactions"
+version = "0.1.0"
+description = ""
+authors = ["shardulchavan <chavan.shardul360@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.40.1"
+pytest = "^8.3.3"
+fastapi = "^0.115.5"
+openai = "^1.54.4"
+uvicorn = {extras = ["standard"], version = "^0.32.0"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
