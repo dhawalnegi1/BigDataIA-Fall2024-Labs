@@ -1,36 +1,30 @@
-## Friday Batch
+# BigData-Fall2025
 
-Team 1	- https://github.com/BigDataIA-Fall2024-TeamA1/Final-Project
+Welcome to the BigData-Fall2025 repository. This repository contains all the coursework for the Big Data course in Fall 2025.
 
-Team 2	- https://github.com/BigDataIA-Fall2024-TeamA2/FinalProject
+## Repository Structure
 
-Team 3 -	https://github.com/BigDataIA-Fall2024-TeamA3/damg7245_final_project
+The repository is organized as follows:
 
-Team 4 -	https://github.com/BigDataIA-Fall2024-TeamA4/GamePlan-A_Personalized_Sports_Companion
+- `Assignments/`: Contains all the assignments of all weeks and teams.
+- `Labs/`: Contains all the lab materials for each week.
+- `Resources/`: Contains additional resources for the course.
 
-Team 5 - https://github.com/BigDataIA-Fall2024-TeamA5/Final-Project
+## Contributing
 
-Team 6 -	https://github.com/BigDataIA-Fall2024-TeamA6/F1_Intelligence_FinalProject?tab=readme-ov-file
+If you would like to contribute to this repository, please follow these steps:
 
-Team 7 -	https://github.com/BigDataIA-Fall2024-TeamA7/final-project
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push them to your fork.
+4. Create a pull request with a description of your changes.
 
+## License
 
-## Saturday Batch
+This repository is licensed under the MIT License. See the `LICENSE` file for more details.
 
-Team 1 - Learn Lab -	https://github.com/DAMG7245-Big-Data-Sys-SEC-02-Fall24/LearnLab
+## Contact
 
-Team 2 - AIVY - AI Powered Learning Assistant -	https://github.com/BigData-saturdayT2/LearningAssistant
+For any questions or issues, please contact the course instructor or teaching assistants.
 
-Team 3 - Intelligent Job Search Assistant - https://github.com/BigDataIA-Fall2024-TeamB3/Final_Project
-
-Team 4 - CanvasGPT: AI Canvas Management Assistant - https://github.com/BigData-Fall2024-Team4/Final-Project
-
-Team 5	- Northeastern-University-Student-Assistance-Chatbot -	https://github.com/BigDataIA-Fall2024-Team-5/Northeastern-University-Student-Assistance-Chatbot
-
-Team 6	- Outlook Assistant -	https://github.com/BigDataIA-Fall2024-TeamB6/FinalProject
-
-Team 7 - Open-Source Python Library Coding Agent	- https://github.com/Big-Data-IA-Team-7/open-source-python-lib-coding-agent
-
-Team 8 -	AI-Powered TED Talk Personalization and Research Assistant -	https://github.com/BigDataIA-Fall2024-TeamB8/Final_Project
-
-Team 9	- SmartLease: AI-Powered Apartment Search	- https://github.com/BigDataIA-Fall2024-Team9/Final_Project
+Happy Learning!
