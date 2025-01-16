@@ -2,7 +2,7 @@
 ### Overview
 This 1.5-hour lab session will cover advanced Git concepts, team collaboration, project management with GitHub, and hands-on practice with real-world scenarios.
 This 1.5-hour lab session will cover advanced Git concepts, team collaboration, project management with GitHub, and hands-on practice with real-world scenarios.
-This 1.5-hour lab session will cover advanced Git concepts, team collaboration, project management with GitHub, and hands-on practice with real-world scenarios.
+Changed this.
 This 1.5-hour lab session will cover advanced Git concepts, team collaboration, project management with GitHub, and hands-on practice with real-world scenarios.
 This 1.5-hour lab session will cover advanced Git concepts, team collaboration, project management with GitHub, and hands-on practice with real-world scenarios.
 ## Week 2
